@@ -1,3 +1,6 @@
+// Sergio Rovira 
+// October 17, 2016
+
 import java.util.Scanner;
 
 public class NetPay {
