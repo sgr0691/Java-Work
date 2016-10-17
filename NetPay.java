@@ -7,9 +7,9 @@ public static void main(String[] args) {
 		Scanner keyboard = new Scanner(System.in);
 		
 		/* Defined the constants */
-		final double FEDERAL_TAX_PERCENT = 10.00;
-		final double STATE_TAX_PERCENT = 4.5;
-		final double PAY_PER_HOUR = 7.25;
+		final double FEDERAL_TAX_PERCENT = 20.00;
+		final double STATE_TAX_PERCENT = 9.0;
+		final double PAY_PER_HOUR = 18.25;
 		
 		/* Declared the variables */
 		int hoursPerWeek;
